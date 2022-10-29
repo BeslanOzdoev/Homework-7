@@ -1,0 +1,15 @@
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\bin\Debug\net6.0\HW7.1.exe
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\bin\Debug\net6.0\HW7.1.deps.json
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\bin\Debug\net6.0\HW7.1.runtimeconfig.json
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\bin\Debug\net6.0\HW7.1.dll
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\bin\Debug\net6.0\HW7.1.pdb
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.csproj.AssemblyReference.cache
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.AssemblyInfoInputs.cache
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.AssemblyInfo.cs
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.csproj.CoreCompileInputs.cache
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.dll
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\refint\HW7.1.dll
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.pdb
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\HW7.1.genruntimeconfig.cache
+C:\Users\biozd\OneDrive\Рабочий стол\С# HW7\HW7.1\obj\Debug\net6.0\ref\HW7.1.dll
